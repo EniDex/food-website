@@ -1,0 +1,58 @@
+.container{
+    margin-top: 2rem;
+    text-align: center;
+    align-content: center;
+    font-family: cursive;
+     display: grid; 
+     grid-template-columns: 1fr 1fr 1fr; 
+
+}
+.first-section{
+   justify-content: center;
+   text-align: center;
+   
+}
+
+.first-slide{
+margin-top: 1rem;
+}
+.btn{
+    color: gold;
+    background-color: white;
+    border: 2px solid gold;
+    border-radius: 8px;
+}
+.div{
+    display: flex;
+    
+}
+.image{
+    height:8rem ;
+    width: 10rem;
+     object-fit: cover; 
+     margin-right: 1.5rem;
+     border: 2px solid gold;
+     border-radius: 8px;
+     margin-left: 3rem;
+}
+.lorem{
+   /* display:block;*/
+     margin-left: -37rem; 
+   margin-top: -7rem;
+   display: inline-block;
+   
+}
+.butter{
+font-weight: bolder;
+font-size: 1.1rem;
+
+}
+.dollar{
+margin-left: 1.5rem;
+color: gold;
+}
+.second-section{
+    display: flex;
+    width: 100%;
+}
+
